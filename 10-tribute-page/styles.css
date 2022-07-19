@@ -1,0 +1,34 @@
+#main {
+  background-color: #eee;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1,
+p,
+h3,
+#img-caption {
+  text-align: center;
+}
+
+#img-div {
+  background-color: white;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#tribute-info > ul,
+#tribute-info > blockquote {
+  width: 40%;
+  min-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bold {
+  font-weight: bold;
+}
